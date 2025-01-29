@@ -1,4 +1,4 @@
-# LSTM-implementation-for-prediction-of-sales-in-the-mart
+# XGBOOST-implementation-for-prediction-of-sales-in-the-mart
 # Big Market Sales Prediction
 
 This project focuses on predicting the sales of products across different stores in a large retail market using machine learning. The goal is to build a model that can accurately forecast sales based on various product and store features. The dataset used is in CSV format and contains detailed information about products and outlets.
